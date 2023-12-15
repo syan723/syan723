@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **Nomansyan723@gmail.com**
  <br></br>
- 
+ <p>
+ <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syan723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syan723" height="30" width="40" /></a>
