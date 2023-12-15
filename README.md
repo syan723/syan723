@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SYAN</h1>
 <h3 align="center">A passionate Game Developer From Pakistan.</h3>
-
+ <p>
+ <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
+  <br></br>
 - 🔭 I’m currently working On **Vr Projects**
 
 - 👯 I’m looking For **Unity Projects**
